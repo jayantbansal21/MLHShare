@@ -1,10 +1,10 @@
 #include<stdio.h>
-#include<conio.h>
+
 void mergesort(int[],int,int);
 void merge(int[],int,int,int);
 int main()
 {
-clrscr();
+
 int a[10],i,n;
 printf("\nEnter the size of array :-");
 scanf("%d",&n);
@@ -15,7 +15,7 @@ mergesort(a,0,(n-1));
 printf("\nData after merge sort :-\n");
 for(i=0;i<n;i++)
   printf("%d\t",a[i]);
-getch();
+
 return 1;
 }
 void mergesort(int a[],int lb,int ub)
