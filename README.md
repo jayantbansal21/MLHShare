@@ -1,2 +1,2 @@
 # MLHShare
-A repo for all the submission i am going t make in MLH share
+A repo containing some of thr=e projects that I submitted in MLH share.
